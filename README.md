@@ -1,4 +1,4 @@
-# Snake_AI
+# Snake Game AI
 - Developed a Python-based Reinforcement Learning model using PyTorch to teach an AI agent to play the classic game of Snake.
 - Utilized Pygame to create a graphical user interface for the Snake game, enhancing the user experience and facilitating AI training.
 - Implemented deep Q-learning algorithms and fine-tuned hyperparameters to optimize the AI agent's decision-making process and overall gameplay.
